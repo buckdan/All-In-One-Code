@@ -2,7 +2,7 @@
 A github repository by a group of students <br />
 
 ### Cành document
-Đây là cành chứa tất cả những tài liệu liên quan đến lập trình mà những thành viên của repository đã thu thập được. Mọi người lấy nó đọc và học tập nhá
+Đây là cành chứa tất cả những tài liệu liên quan đến lập trình mà những thành viên của repository đã thu thập được. Mọi người lấy nó đọc và học tập nhá :)
 
 ## Ghi chú cho người xem
 Bạn được tùy ý sử dụng code và dự án cho mục đích cá nhân nhưng không được dùng nó cho mục đích sản phẩm riêng, doanh nghiệp riêng
