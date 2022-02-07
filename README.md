@@ -1,5 +1,10 @@
 # All-In-One-Code
-A private github repository for a group of students
+A github repository by a group of students <br />
+
+## Ghi chú cho người xem
+Bạn được tùy ý sử dụng code và dự án cho mục đích cá nhân nhưng không được dùng nó cho mục đích sản phẩm riêng, doanh nghiệp riêng
+
+## Ghi chú cho thành viên
 
 Đăng lên những gì mình muốn. Code bằng ngôn ngữ nào cũng được :D <br />
 
