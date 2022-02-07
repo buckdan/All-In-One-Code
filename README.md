@@ -2,7 +2,7 @@
 A github repository by a group of students <br />
 
 ## Ghi chú cho người xem
-Bạn được tùy ý sử dụng code và dự án cho mục đích cá nhân nhưng không được dùng nó cho mục đích sản phẩm riêng, doanh nghiệp riêng
+Bạn được tùy ý sử dụng code và dự án cho mục đích cá nhân nhưng không được dùng nó 100% cho mục đích sản phẩm riêng, doanh nghiệp riêng mà chưa credit người sáng tạo.
 
 ## Ghi chú cho thành viên
 
