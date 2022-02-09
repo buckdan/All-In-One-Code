@@ -1,3 +1,10 @@
+## Required dependecies
+stable-baselines3[extra] <br />
+gym_super_mario_bros <br />
+nes_py <br />
+pytorch <br />
+tensorboard (if you want to view the log file)
+
 ### English
 An AI that can play Super Mario Bros, the AI.py file is used to train the AI, currently you can't view the training proccess but you can see the stats to know how it is preforming
 (If you don't have a high end machine. You can train this on Google Colab)<br />
