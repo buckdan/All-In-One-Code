@@ -45,7 +45,7 @@ class TrainAndLoggingCallback(BaseCallback):
 CHECKPOINT_DIR = './train/'
 LOG_DIR = './logs/'
 callback = TrainAndLoggingCallback(check_freq=1000, save_path=CHECKPOINT_DIR)
-#Starter AI
+#AI training settings
 model = PPO('CnnPolicy', env, verbose=1, tensorboard_log=LOG_DIR, learning_rate=0.000001, n_steps=512)
 
 #Train
