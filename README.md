@@ -1,8 +1,8 @@
 # All-In-One-Code
 A github repository by a group of students <br />
 
-### Cành main
-Đây là cành mà các thành viên của repository sẽ chia sẻ những dự án lớn. Và mọi người có thể lấy source code về nghiên cứu. <br />
+### Cành python
+Đây là cành mà các thành viên của repository sẽ chia sẻ những dự án python. Và mọi người có thể lấy source code về nghiên cứu. <br />
 **Lưu ý bạn không được phép lấy toàn bộ dự án về với mục đích kiếm doanh thu cho nhóm riêng, doanh nghiệp. Đây là tài sản cá nhân của các thành viên trong repository. Làm ơn hãy tôn trọng họ và không ăn cắp dự án.**
 
 ## Ghi chú cho người xem
